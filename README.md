@@ -21,4 +21,4 @@
 
 ![goal_state_2](https://user-images.githubusercontent.com/73216938/136482138-be27c810-a464-4ee7-91ab-786548d6f648.png)
 
-### goal state 1 memerlukan jumlah states yang lebih sedikit jika diandingkan dengan goal state 2. Pada goal state 1 kita hanya perlu merubah 36 squares or 4 sub-squares untuk mencapai goal state, tetapi pada goal state 2 maka kita perlu merubah 45 squares or 5 sub-squares untuk mencapai goal state
+### goal state 1 memerlukan jumlah states yang lebih sedikit jika dibandingkan dengan goal state 2. Pada goal state 1 kita hanya perlu merubah 36 squares or 4 sub-squares untuk mencapai goal state, tetapi pada goal state 2 maka kita perlu merubah 45 squares or 5 sub-squares untuk mencapai goal state
